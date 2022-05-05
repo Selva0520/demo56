@@ -1,0 +1,6 @@
+E:\vs_proj\BookRecommendation1\BookDAL\bin\Debug\BookDAL.dll
+E:\vs_proj\BookRecommendation1\BookDAL\bin\Debug\BookDAL.pdb
+E:\vs_proj\BookRecommendation1\BookDAL\obj\Debug\BookDataAccessLayer.csproj.AssemblyReference.cache
+E:\vs_proj\BookRecommendation1\BookDAL\obj\Debug\BookDataAccessLayer.csproj.CoreCompileInputs.cache
+E:\vs_proj\BookRecommendation1\BookDAL\obj\Debug\BookDAL.dll
+E:\vs_proj\BookRecommendation1\BookDAL\obj\Debug\BookDAL.pdb

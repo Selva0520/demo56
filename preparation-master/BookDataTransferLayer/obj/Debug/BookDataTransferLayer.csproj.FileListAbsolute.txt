@@ -1,0 +1,6 @@
+E:\vs_proj\BookRecommendation1\BookDataTransferLayer\bin\Debug\BookDataTransferLayer.dll
+E:\vs_proj\BookRecommendation1\BookDataTransferLayer\bin\Debug\BookDataTransferLayer.pdb
+E:\vs_proj\BookRecommendation1\BookDataTransferLayer\obj\Debug\BookDataTransferLayer.csproj.AssemblyReference.cache
+E:\vs_proj\BookRecommendation1\BookDataTransferLayer\obj\Debug\BookDataTransferLayer.csproj.CoreCompileInputs.cache
+E:\vs_proj\BookRecommendation1\BookDataTransferLayer\obj\Debug\BookDataTransferLayer.dll
+E:\vs_proj\BookRecommendation1\BookDataTransferLayer\obj\Debug\BookDataTransferLayer.pdb
